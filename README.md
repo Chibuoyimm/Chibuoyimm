@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chibuoyim!
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning backend web development using Django
+- 🌱 I’m currently learning backend web development using Django and FastAPI
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me: onuigwechibuoyim@gmail.com
 
